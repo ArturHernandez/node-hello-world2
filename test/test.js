@@ -1,0 +1,1 @@
+console.log("Texto que quiero que se imprima");
